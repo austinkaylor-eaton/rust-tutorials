@@ -427,3 +427,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# JetBrains
+.idea/
+**/.idea/
+
+# Rust target directories
+target/
+**/target/

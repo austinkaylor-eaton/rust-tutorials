@@ -49,6 +49,14 @@ To run the tests for a project:
 cargo test
 ```
 
+## Tutorials
+The repository is organized into subdirectories, each containing a different tutorial or exercise. Each directory includes a `README.md` with instructions and explanations for that specific tutorial.
+
+| Source | Tutorial | Tags |
+|--------|----------|------|
+|        |          |      |
+
+
 ## Resources
 
 Some useful resources for learning Rust:
